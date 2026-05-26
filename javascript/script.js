@@ -1,0 +1,1 @@
+console.log("Smart Tech Solutions Website Loaded");
